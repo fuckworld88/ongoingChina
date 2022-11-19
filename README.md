@@ -3,6 +3,3 @@
 
 ## for the people, by the people
 
-##
-Git config user.name fuckworld88
-git config user.email VictoryCome@protonmail.com
